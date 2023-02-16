@@ -1,0 +1,32 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: Oswald;
+}
+
+.titulo{
+	-fx-text-fill: #48B2EE;
+	-fx-font-size: 36px;
+}
+
+.numero{
+	-fx-text-fill: #FFF;
+	-fx-font-size: 28px;
+}
+
+.button{
+	-fx-background-color: white;
+	-fx-text-fill: #48B2EE;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+	-fx-cursor: pointer;
+}
+
+.success{
+	-fx-text-fill: #4BDB82;
+}
+
+.failed{
+	-fx-text-fill: #EE4139;
+}
